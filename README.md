@@ -2,6 +2,8 @@
 
 This is the classic Todo app exercise. 
 
+Demo can be found here: [https://petter0619.github.io/vanilla-js-todo-list/](https://petter0619.github.io/vanilla-js-todo-list/)
+
 ### UI Description
 * Initially, the list of todo cards will be empty.
 * There is a form where the user can add a new 'todo'.
